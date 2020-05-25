@@ -3,10 +3,10 @@
 dependencies: []
 
 galaxy_info:
-  role_name: '_template'
-  author: 'Adfinis SyGroup AG'
-  description: 'This is the ansible _template'
-  company: 'Adfinis SyGroup AG'
+  role_name: 'systemd_journald'
+  author: 'Adfinis AG'
+  description: 'Configure systemd-journald'
+  company: 'Adfinis AG'
   license: 'GNU General Public License v3'
   min_ansible_version: '2.0.0'
   platforms:
@@ -15,6 +15,7 @@ galaxy_info:
         - wheezy
         - jessie
         - stretch
+        - buster
     - name: Ubuntu
       versions:
         - trusty
@@ -23,4 +24,6 @@ galaxy_info:
       versions:
         - 6
         - 7
-  galaxy_tags: []
+  galaxy_tags:
+    - systemd
+    - journald
