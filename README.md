@@ -59,4 +59,4 @@ Author Information
 
 The `systemd_journald` role was written by:
 
-* Adfinis AG | `Website <https://adfinis.com/>`_ | `Twitter <https://twitter.com/adfinissygroup>`_ | `GitHub <https://github.com/adfinis-sygroup>`_
+* Adfinis AG | [Website](https://adfinis.com/) | [Twitter](https://twitter.com/adfinissygroup) | [GitHub](https://github.com/adfinis-sygroup)
